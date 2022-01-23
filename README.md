@@ -15,7 +15,7 @@ The Porject is a simple try to get Sneaker price from differengt website set in 
 * [Search.py](https://github.com/Charlotte-Song/econ3086/blob/main/Search.py)
     * Due to the difference of data format comes from different source we throught this part to match the snaeaker name 
     * Then though this part to complete the comparison
-* [sentmessage.py](https://github.com/Charlotte-Song/econ3086/blob/main/sentmeesage.py)
+* [sentmessage.py](https://github.com/Charlotte-Song/econ3086/blob/main/sentmessage.py)
     * Through the telepot package to interact with user
     * User sent message shoes name and size through telegram then get the corrsponding price and suggestion
 

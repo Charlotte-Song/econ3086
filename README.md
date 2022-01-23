@@ -19,6 +19,9 @@ The Porject is a simple try to get Sneaker price from differengt website set in 
     * Through the telepot package to interact with user
     * User sent message shoes name and size through telegram then get the corrsponding price and suggestion
 
+### Now Achievement
+![image](https://github.com/Charlotte-Song/econ3086/blob/main/Now_Achievement.png)
+
 ### Limitation
 * Person Technical knowledge limitation
     * Match Limitation: Just as what I mentioned in Search.py part, there are many different in naming the snearch. Thus I do not complete all type of comparsion but just limited in Yeezy(a hot shoes brand belong to Addidas)
@@ -27,7 +30,11 @@ The Porject is a simple try to get Sneaker price from differengt website set in 
     
 ### Expectation
 
-* Crawl the data in daliy routing and sombine with the Machine learning to predict the price to improve the suggestion to the user.
+Now some webiste also combined the data and provide the data to their user.
+My dream pricture:
+* Based on Crawl the data in daliy routing 
+* Time Suggestion: Combine with the Machine learning to predict the price to improve the suggestion to the user help them find the appropriate time to buy the sneaker.
+* Source Suggestion: Find more webiste(source) set in different country combine the exchange rate and different hobby in different region to help user find the cheapest one
 
 ## Authors
 

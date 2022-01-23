@@ -7,15 +7,15 @@ The Porject is a simple try to get Sneaker price from differengt website set in 
 * [KNCKFF(already renamed as AREA02)](https://www.area02.com/zh-CN)
 
 ### Content
-* STOCKX.py
+* [STOCKX.py](https://github.com/Charlotte-Song/econ3086/blob/main/STOCKX.py)
     * Through request, ssl and beautiful4soup package to crawl data such as sneaker name size and corresponding price
     * Through the pandas to clwan the data
-* KNCKFF.py
+* [KNCKFF.py](https://github.com/Charlotte-Song/econ3086/blob/main/KNCKFF.py)
     * Almost Same way as STOCKX.py to crawl data form KNCKFF Website
-* Search.py
+* [Search.py](https://github.com/Charlotte-Song/econ3086/blob/main/Search.py)
     * Due to the difference of data format comes from different source we throught this part to match the snaeaker name 
     * Then though this part to complete the comparison
-* sentmessage.py
+* [sentmessage.py](https://github.com/Charlotte-Song/econ3086/blob/main/sentmeesage.py)
     * Through the telepot package to interact with user
     * User sent message shoes name and size through telegram then get the corrsponding price and suggestion
 

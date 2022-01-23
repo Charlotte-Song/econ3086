@@ -3,8 +3,8 @@ The Porject is a simple try to get Sneaker price from differengt website set in 
 
 ## Main Content
 ### Source
-* [StockX](https://www.area02.com/zh-CN)
-* [KNCKFF(already renamed as AREA02)](https://stockx.com]
+* [StockX](https://stockx.com)
+* [KNCKFF(already renamed as AREA02)](https://www.area02.com/zh-CN)
 
 ### Content
 * STOCKX.py
